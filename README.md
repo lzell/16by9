@@ -1,5 +1,5 @@
 ## About
-Puts a 16:9 aspect ratio mask on your Mac. The unmasked 16:9 area includes the menu bar.
+Puts a mask over any part of the screen that is outside of 16:9. The unmasked area includes the menu bar.
 
 Here is a screenshot:
 
