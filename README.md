@@ -1,11 +1,9 @@
-# 16by9
-
 ## About
 Puts a 16:9 aspect ratio mask on your Mac. The unmasked 16:9 area includes the menu bar.
 
 Here is a screenshot:
 
-<img width="1440" alt="Screenshot 2023-06-07 at 14 58 07" src="https://github.com/lzell/16by9/assets/35940/cba82e0c-2144-43de-8a8e-1b55f749a64b">
+<img width="1440" alt="Screenshot 2023-06-07 at 15 28 09" src="https://github.com/lzell/16by9/assets/35940/07db45e8-58cd-4c91-b9a0-ecd8b5eb687c">
 
 ## Installation options
 
