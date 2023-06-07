@@ -7,9 +7,9 @@ Here is a screenshot:
 
 ## Installation options
 
-1. Clone this repo and build and run the xcode project
+Option 1. Clone this repo and build and run the xcode project
 
-2. Curl the program hosted on louzell.com, and add it to your path:
+Option 2. Curl the program hosted on louzell.com, and add it to your path:
 
 In Term:
 
