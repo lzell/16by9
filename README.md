@@ -24,3 +24,5 @@ Run it:
 
     16by9
     :: Use ctrl+c to quit
+
+**If your display is in 16:9, you won't see any green mask**
